@@ -9,3 +9,5 @@
 .terraform.lock.hcl
 # documents
 *.doc
+echo "terraform/" >> .gitignore
+git add .gitignore
